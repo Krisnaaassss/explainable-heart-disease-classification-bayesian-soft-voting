@@ -1,4 +1,4 @@
-# Heart Disease Classification with Resampling and Ensemble
+# Explainable Heart Disease Classification Using a Bayesian-Optimized Weighted Soft Voting Ensemble
 
 This repository contains machine learning experiments for heart disease classification using multiple datasets, Bayesian hyperparameter optimization, ensemble learning, and resampling techniques.
 
