@@ -79,5 +79,5 @@ Model performance is evaluated using:
 ```text
 .
 ├── Heart_Disease_Classification_All_Datasets.ipynb
-├── Resampling_Long_Beach_VA_and_Heart_Failure.ipynb
+├── Resampling_Dataset_Long_Beach_VA_and_Heart_Failure.ipynb
 └── README.md
